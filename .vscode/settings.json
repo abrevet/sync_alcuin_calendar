@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "dependencies/commons-cli-1.4/commons-cli-1.4.jar",
+        "dependencies/commons-cli-1.4/commons-cli-1.4-javadoc.jar",
+        "dependencies/commons-cli-1.4/commons-cli-1.4-sources.jar",
+        "dependencies/jsoup-1.13.1.jar",
+        "dependencies/jsoup-1.13.1-javadoc.jar"
+    ]
+}
