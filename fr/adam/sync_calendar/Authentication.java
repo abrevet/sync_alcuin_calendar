@@ -18,8 +18,8 @@ import org.jsoup.select.Elements;
 
 public class Authentication {
 
-    private String LOGIN = "abrevet.ira2023";
-    private String PASS = "d72c17";
+    private String LOGIN = "";
+    private String PASS = "";
 
     private String LOGIN_NAME_TOKEN = "UcAuthentification1$UcLogin1$txtLogin";
     private String PASS_NAME_TOKEN = "UcAuthentification1$UcLogin1$txtPassword";

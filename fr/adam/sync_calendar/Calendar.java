@@ -13,8 +13,8 @@ public class Calendar {
     public String get_User_Id() throws IOException, InterruptedException {
         Utils u = new Utils();
         HttpResponse response = u.request("https://esaip.alcuin.com/OpDotNet/Context/context.jsx");
-        Pattern p = Pattern.compile("\\w+[0-9])");
-        p.matcher(response.toString());
+     //   Pattern p = Pattern.compile("\\w+[0-9])");
+     //   p.matcher(response.toString());
         return 1;
     }
 }
